@@ -1,0 +1,17 @@
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\bin\Debug\Практическая работа 8.1.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\bin\Debug\Практическая работа 8.1.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\bin\Debug\Практическая работа 8.1.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\MainWindow.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\App.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1_MarkupCompile.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1_MarkupCompile.lref
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\MainWindow.baml
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.g.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая_работа_8._1.Properties.Resources.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.csproj.GenerateResource.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window1.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window1.baml
