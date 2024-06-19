@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,11 +26,22 @@ namespace Практическая_работа_8._1
             InitializeComponent();
         }
 
-        private void btnAut_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            var newForm = new Window1(); //create your new form.
-            newForm.Show(); //show the new form.
-            this.Close(); //only if you want to close the current form.
+            if (textBox_login.Text.Length > 0) // проверяем введён ли логин     
+            {
+                if (password.Password.Length > 0) // проверяем введён ли пароль         
+                {             
+                    
+                    if (.Rows.Count > 0) // если такая запись существует       
+                    {
+                        MessageBox.Show("Пользователь авторизовался"); // говорим, что авторизовался         
+                    }
+                    else MessageBox.Show("Пользователя не найден"); // выводим ошибку  
+                }
+                else MessageBox.Show("Введите пароль"); // выводим ошибку    
+            }
+            else MessageBox.Show("Введите логин"); // выводим ошибку 
         }
     }
 }

@@ -15,3 +15,5 @@ D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Прак
 D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Практическая работа 8.1.pdb
 D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window1.g.cs
 D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window1.baml
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window2.g.cs
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\Практическая работа 8.1\obj\Debug\Window2.baml

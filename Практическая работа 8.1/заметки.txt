@@ -1,0 +1,12 @@
+ <Menu Height="25" VerticalAlignment="Top">
+     <MenuItem Header="Файл">
+         <MenuItem Header="Создать отчет" ></MenuItem>
+         <MenuItem Header="Список имеющихся отчетов" >
+             
+         </MenuItem>
+         <Separator />
+         <MenuItem Header="Exit" ></MenuItem>
+     </MenuItem>
+     <MenuItem Header="Edit" ></MenuItem>
+     <MenuItem Header="View" ></MenuItem>
+ </Menu>
